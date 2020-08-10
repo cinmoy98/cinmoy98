@@ -40,7 +40,7 @@
 <br />
 ---
 
-<img align="left" alt="cinmoy98's Github Stats" src="https://github-readme-stats.cinmoy98.vercel.app/api?username=cinmoy98&show_icons=true&hide_border=true" />
+[![Cinmoy's github stats](https://github-readme-stats.vercel.app/api?username=cinmoy98)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://webdesign-tech.studio
 [facebook]: https://web.facebook.com/cinmoy.shuvro
