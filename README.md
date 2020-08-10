@@ -40,7 +40,7 @@
 <br />
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="cinmoy98's Github Stats" src="https://github-readme-stats.cinmoy98.vercel.app/api?username=cinmoy98&show_icons=true&hide_border=true" />
 
 [website]: http://webdesign-tech.studio
 [facebook]: https://web.facebook.com/cinmoy.shuvro
