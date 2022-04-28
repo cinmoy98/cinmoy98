@@ -1,16 +1,15 @@
 ### Hi there, I'm Cinmoy Das - aka [cinmoy98][website] 👋
 
-## I'm a Learner, Developer, and Someone's son!
+## A System Design and DevOps Enthusiast
 - 🔭 I’m currently working on a [Depth estimation Project][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Industry persons
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and travel
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -42,9 +41,8 @@
 
 [![Cinmoy's github stats](https://github-readme-stats.vercel.app/api?username=cinmoy98)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: http://webdesign-tech.studio
+[website]: http://cinmoyspace.me/
 [facebook]: https://web.facebook.com/cinmoy.shuvro
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/cinmoyshuvro/
 [linkedin]: https://www.linkedin.com/in/cinmoys-here/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
